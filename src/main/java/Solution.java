@@ -1,5 +1,5 @@
-public class Solution {
-    public long maximumValueSum(int[] A, int k, int[][] edges) {
-
+class Solution {
+    public long maximumValueSum(int[] nums, int k, int[][] edges) {
+        return 0L;
     }
 }
